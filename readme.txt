@@ -5,6 +5,7 @@ Tags: widget, kategorie, artikel
 Requires at least: 3.x
 Tested up to: 3.1
 Stable tag: 1.3.5.1
+Creation time: 04.09.2011
 
 Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 

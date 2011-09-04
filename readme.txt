@@ -45,7 +45,7 @@ Kostenlose Plugins die ich erstelle, werden generell veröffentlicht!
 
 == Change log ==
 * 1.0.1 [04.09.2011] - Überarbeitung der Plugin-Seite
-* 1.0.0 [04.09.2011] - Erstellung und Ver�ffentlichung des Plugins
+* 1.0.0 [04.09.2011] - Erstellung und Veröffentlichung des Plugins
 
 == Screenshots ==
 1. Widget Einstellungen

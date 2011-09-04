@@ -26,6 +26,16 @@ Einstellungsmöglichkeiten:
 *   Maximale Anzahl der Artikel setzen
 *   Sortierreichenfolge setzen
 
+Formatierungstest:
+*test1*
+"test2"
+> Test3
+**test4**
+`<?php code(); // goes in backticks ?>`
+[WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax]
+[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
+            "Markdown is what the parser uses to process much of the readme file"
+            
 == Installation ==
 
 Downloade das Plugin oder installiere es direkt über der Wordpress-installation. Nachdem das Plugin aktiviert wurde, kann es direkt eingesetzt werden.
@@ -52,6 +62,14 @@ Kostenlose Plugins die ich erstelle, werden generell veröffentlicht!
 [04.09.2011, Last Update: 13:34 Uhr]
 * Überarbeitung der Plugin-Seite
 * Erstellung und Veröffentlichung des Plugins
+
+== Arbitrary section ==
+
+TEST1
+
+== A brief Markdown Example ==
+
+TEST2
 
 == Screenshots ==
 1. Widget Einstellungen

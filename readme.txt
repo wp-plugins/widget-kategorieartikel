@@ -14,6 +14,16 @@ Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestim
 
 == Installation ==
 
+Download & Install it
+
+== Upgrade Notice ==
+
+N/A
+
+== Frequently Asked Questions ==
+
+N/A
+
 == Change log ==
 
 * 1.0 [28 Nov 2008] - initial submit of the plugin

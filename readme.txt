@@ -12,34 +12,26 @@ Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer besti
 == Description ==
 Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 
-Funktionen:
+**Funktionen:**
 
 *   Das Plugin erstellt ein Widget
 *   Im Widget kann eine Kategorie angegeben werden
 *   Es werden alle Artikel der gewählten Kategorie ausgegeben werden
 
-Einstellungsmöglichkeiten:
+**Einstellungsmöglichkeiten:**
 
 *   Setzen eines Titels
 *   Auswahl einer Kategorie
 *   Setzen einer CSS-Klasse
 *   Maximale Anzahl der Artikel setzen
 *   Sortierreichenfolge setzen
-
-Formatierungstest:
-*test1*
-"test2"
-> Test3
-**test4**
-`<?php code(); // goes in backticks ?>`
-[WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax]
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
             
 == Installation ==
 
 Downloade das Plugin oder installiere es direkt über der Wordpress-installation. Nachdem das Plugin aktiviert wurde, kann es direkt eingesetzt werden.
 
+> Fragen oder Probleme?
+> Kontaktiere mich: [a.preuss@hovida-design.de](mailto:a.preuss@hovida-design.de "a.preuss@hovida-design.de")
 == Upgrade Notice ==
 
 Sofern es Updates gibt, brauchen die Dateien nur ersetzt oder neu installiert werden.
@@ -56,20 +48,17 @@ Optional kannst du auf der Wordpress-Hauptseite das Plugin downloaden und manuel
 Kein Problem! Kontaktiere mich, ich erstelle gerne weitere Plugins auf Anfrage.
 Kostenlose Plugins die ich erstelle, werden generell veröffentlicht!
 
+= Ich habe ein Fehler gefunden! =
+
+Bitte kontaktiere mich, ich werde dies dann umgehend korrigieren.
+
 == Change log ==
 
 = 1.0 =
-[04.09.2011, Last Update: 13:34 Uhr]
+"[04.09.2011, Last Update: 13:34 Uhr] - Adrian Preuss"
+
 * Überarbeitung der Plugin-Seite
 * Erstellung und Veröffentlichung des Plugins
-
-== Arbitrary section ==
-
-TEST1
-
-== A brief Markdown Example ==
-
-TEST2
 
 == Screenshots ==
 1. Widget Einstellungen

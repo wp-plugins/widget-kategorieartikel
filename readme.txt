@@ -11,12 +11,12 @@ Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer besti
 == Description ==
 Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 
-Funktionen:
+<u>Funktionen:</u>
 - Das Plugin erstellt ein Widget
 - Im Widget kann eine Kategorie angegeben werden
 - Es werden alle Artikel der gewählten Kategorie ausgegeben werden
 
-Einstellungsmöglichkeiten:
+<u>Einstellungsmöglichkeiten:</u>
 - Setzen eines Titels
 - Auswahl einer Kategorie
 - Setzen einer CSS-Klasse
@@ -41,7 +41,7 @@ Optional kannst du auf der Wordpress-Hauptseite das Plugin downloaden und manuel
 = Ich möchte weitere Plugins von dir! =
 
 Kein Problem! Kontaktiere mich, ich erstelle gerne weitere Plugins auf Anfrage.
-Kostenlose Plugins die ich erstelle, werden generell ver�ffentlicht!
+Kostenlose Plugins die ich erstelle, werden generell veröffentlicht!
 
 == Change log ==
 * 1.0.1 [04.09.2011] - Überarbeitung der Plugin-Seite

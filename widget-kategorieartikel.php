@@ -22,7 +22,6 @@
 			}
 			
 			$categorys = wp_list_categories();
-			print_r($categorys);
 			$data = get_option("widget_categorys");
 			print "<p><label for=\"title\">Titel</label><input class=\"widefat\" id=\"title\" name=\"title\" type=\"text\" value=\"" . $data->title . "\" /></p>";
 			print "<p><label for=\"css\">CSS-Klasse</label><input class=\"widefat\" id=\"css\" name=\"css\" type=\"text\" value=\"" . $data->css . "\" /></p>";

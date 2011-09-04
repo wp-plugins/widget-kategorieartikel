@@ -34,4 +34,5 @@ Kostenlose Plugins die ich erstelle, werden generell ver�ffentlicht!
 * 1.0.0 [04.09.2011] - Erstellung und Ver�ffentlichung des Plugins
 
 == Screenshots ==
-1. Test
+1. Widget Einstellungen
+2. Plugin-Seite

@@ -12,26 +12,19 @@ Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer besti
 == Description ==
 Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 
-<u>Funktionen:</u>
+Funktionen:
 
-- Das Plugin erstellt ein Widget
+*   Das Plugin erstellt ein Widget
+*   Im Widget kann eine Kategorie angegeben werden
+*   Es werden alle Artikel der gewählten Kategorie ausgegeben werden
 
-- Im Widget kann eine Kategorie angegeben werden
+Einstellungsmöglichkeiten:
 
-- Es werden alle Artikel der gewählten Kategorie ausgegeben werden
-
-
-<u>Einstellungsmöglichkeiten:</u>
-
-- Setzen eines Titels
-
-- Auswahl einer Kategorie
-
-- Setzen einer CSS-Klasse
-
-- Maximale Anzahl der Artikel setzen
-
-- Sortierreichenfolge setzen
+*   Setzen eines Titels
+*   Auswahl einer Kategorie
+*   Setzen einer CSS-Klasse
+*   Maximale Anzahl der Artikel setzen
+*   Sortierreichenfolge setzen
 
 == Installation ==
 
@@ -54,8 +47,11 @@ Kein Problem! Kontaktiere mich, ich erstelle gerne weitere Plugins auf Anfrage.
 Kostenlose Plugins die ich erstelle, werden generell veröffentlicht!
 
 == Change log ==
-* 1.0.1 [04.09.2011] - Überarbeitung der Plugin-Seite
-* 1.0.0 [04.09.2011] - Erstellung und Veröffentlichung des Plugins
+
+= 1.0 =
+[04.09.2011, Last Update: 13:34 Uhr]
+* Überarbeitung der Plugin-Seite
+* Erstellung und Veröffentlichung des Plugins
 
 == Screenshots ==
 1. Widget Einstellungen

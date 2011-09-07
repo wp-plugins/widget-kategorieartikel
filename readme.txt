@@ -53,6 +53,14 @@ Bitte kontaktiere mich, ich werde dies dann umgehend korrigieren.
 
 == Change log ==
 
+= 1.1 =
+"[07.09.2011, Last Update: 14:27 Uhr] - Adrian Preuss"
+
+* Überarbeitung der Administration
+* Überarbeitung des Frontend-Bereiches
+
+Vielen Dank an einem Nutzer des Plugins, der ein Fehler festgestellt hatte. Ich hatte ausversehen eine ältere Revision hochgeladen gehabt, nun sollte das Plugin funktionieren.
+
 = 1.0 =
 "[04.09.2011, Last Update: 13:34 Uhr] - Adrian Preuss"
 

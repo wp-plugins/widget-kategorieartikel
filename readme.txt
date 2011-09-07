@@ -4,7 +4,8 @@ Donate link: http://hovida-design.de
 Tags: widget, kategorie, artikel
 Requires at least: 3.x
 Tested up to: 3.1
-Stable tag: 1.3.5.1
+Stable tag: 1.1
+Version: 1.1
 
 Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 

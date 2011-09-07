@@ -4,7 +4,7 @@
 		Plugin URI: http://hovida-design.de
 		Description: Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 		Author: Adrian Preuß
-		Version: 1.0
+		Version: 1.1
 		Author URI: mailto:a.preuss@hovida-design.de
 	*/
 

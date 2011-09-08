@@ -25,6 +25,11 @@ Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer besti
 *   Setzen einer CSS-Klasse
 *   Maximale Anzahl der Artikel setzen
 *   Sortierreichenfolge setzen
+
+**Aktuelle ToDo:**
+*   Multiinstanz-fähigkeit (Das Widget kann mehrfach verwendet werden)
+*   Textkürzung (Der Text der Artikel lässt sich beliebig kürzen)
+"Die Aktuelle ToDo wird vorraussichtlich mit Version 1.2 übernommen."
             
 == Installation ==
 

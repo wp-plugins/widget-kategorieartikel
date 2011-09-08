@@ -1,11 +1,11 @@
 === Widget: Kategorieartikel ===
 Contributors: Adrian Preuss
-Version: 1.1
+Version: 1.2
 Donate link: http://hovida-design.de
 Tags: widget, kategorie, artikel
 Requires at least: 3.x
 Tested up to: 3.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 
@@ -17,6 +17,7 @@ Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer besti
 *   Das Plugin erstellt ein Widget
 *   Im Widget kann eine Kategorie angegeben werden
 *   Es werden alle Artikel der gewählten Kategorie ausgegeben werden
+*   Multiinstanz-fähig
 
 **Einstellungsmöglichkeiten:**
 
@@ -25,13 +26,11 @@ Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer besti
 *   Setzen einer CSS-Klasse
 *   Maximale Anzahl der Artikel setzen
 *   Sortierreichenfolge setzen
+*   Textlänge der Ausgabe setzen/kürzen
 
 **Aktuelle ToDo:**
 
-*   Multiinstanz-fähigkeit (Das Widget kann mehrfach verwendet werden)
-*   Textkürzung (Der Text der Artikel lässt sich beliebig kürzen)
-
-"Die Aktuelle ToDo wird vorraussichtlich mit Version 1.2 übernommen."
+N/A
             
 == Installation ==
 
@@ -61,6 +60,12 @@ Bitte kontaktiere mich, ich werde dies dann umgehend korrigieren.
 
 == Change log ==
 
+= 1.2 =
+"[08.09.2011, Last Update: 13:49 Uhr] - Adrian Preuss"
+
+* Textlänge ist nun setzbar
+* Das Widget ist nun Multiinstanz-fähig und kann mehrfach verwendet werden.
+
 = 1.1 =
 "[07.09.2011, Last Update: 14:27 Uhr] - Adrian Preuss"
 
@@ -78,3 +83,4 @@ Vielen Dank an einem Nutzer des Plugins, der ein Fehler festgestellt hatte. Ich 
 == Screenshots ==
 1. Widget Einstellungen
 2. Plugin-Seite
+3. Widget Übersicht

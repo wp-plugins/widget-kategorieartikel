@@ -4,7 +4,7 @@
 		Plugin URI: http://hovida-design.de
 		Description: Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 		Author: Adrian Preuß
-		Version: 1.2
+		Version: 1.3
 		Author URI: mailto:a.preuss@hovida-design.de
 	*/
 
@@ -39,7 +39,7 @@
 				print "<p><label for=\"category\">Kategorie</label>";
 				print "<select class=\"widefat\" id=\"category\" name=\"category\">";
 				
-				for($i = 0; $i < count($categorys); $i++) {
+				for($i = 1; $i < count($categorys) + 1; $i++) {
 					print "<option value=\"" . $categorys[$i]->cat_ID . "\"" . ($categorys[$i]->cat_ID == $data->category ? " SELECTED" : "") . ">" . $categorys[$i]->name . "</option>";
 				}
 				
@@ -73,7 +73,7 @@
 		function widget($args, $instance) {
 			global $post;
 			$data = get_option($this->id);
-			$articles = get_posts(array("category" => $data->catergory, "order" => $data->sort, "numberposts" => $data->limit));
+			$articles = get_posts(array("category" => $data->category, "order" => $data->sort, "numberposts" => $data->limit));
 			
 			print "<div class=\"" . $data->css . "\">";
 			print "<h2><span>" . $data->title . "</span></h2>";

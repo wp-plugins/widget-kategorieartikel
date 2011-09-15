@@ -1,11 +1,11 @@
 === Widget: Kategorieartikel ===
 Contributors: Adrian Preuss
-Version: 1.2
+Version: 1.3
 Donate link: http://hovida-design.de
 Tags: widget, kategorie, artikel
 Requires at least: 3.2.1
 Tested up to: 3.2.1
-Stable tag: 1.2
+Stable tag: 1.3
 
 Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 
@@ -59,6 +59,11 @@ Kostenlose Plugins die ich erstelle, werden generell veröffentlicht!
 Bitte kontaktiere mich, ich werde dies dann umgehend korrigieren.
 
 == Change log ==
+
+= 1.3 =
+"[15.09.2011, Last Update: 07:52 Uhr] - Adrian Preuss"
+
+* Korrektur des Widgets (ID korrekturen sowie Ausgabe-Fixes)
 
 = 1.2 =
 "[08.09.2011, Last Update: 13:49 Uhr] - Adrian Preuss"

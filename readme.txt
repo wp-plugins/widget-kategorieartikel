@@ -1,11 +1,11 @@
 === Widget: Kategorieartikel ===
 Contributors: Adrian Preuss
-Version: 1.3
-Donate link: http://hovida-design.de
+Version: 1.4
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R8C3SARK4VX2Q
 Tags: widget, kategorie, artikel
-Requires at least: 3.2.1
-Tested up to: 3.2.1
-Stable tag: 1.3
+Requires at least: 3.4.2
+Tested up to: 3.4.2
+Stable tag: 1.4
 
 Dieses Plugin erstellt ein Sidebar-Widget was es ermöglicht Artikel einer bestimmten Kategorie auszugeben.
 
@@ -59,6 +59,19 @@ Kostenlose Plugins die ich erstelle, werden generell veröffentlicht!
 Bitte kontaktiere mich, ich werde dies dann umgehend korrigieren.
 
 == Change log ==
+
+= 1.4 =
+"[08.10.2012, Last Update: 11:59 Uhr] - Adrian Preuss"
+
+* `DANKE AN` Sven (TonkBerlin.de) für die Verbesserungsvorschläge!
+* Kopie der Plugin-Stylesheet zum Theme (Siehe FAQ)
+* Aufgrund dass viele nicht in der FAQ schauen, "Hilfe"-Link im Widget hinzugefügt!
+* Kategorieausgabe gefixxt (Leere Kategorien werden nun angezeigt)
+* Post-Thumnail Support (Mit Größen und Positionsangaben)
+* "Mehr lesen"-Link bei Textlänge
+* Artikel-Content kann nun ausgeblendet werden
+* Artikelanzahl kann im Widget-Titel eingeschaltet werden
+* Artikel-Titel nun verlinkt
 
 = 1.3 =
 "[15.09.2011, Last Update: 07:52 Uhr] - Adrian Preuss"

@@ -1,0 +1,67 @@
+/* Stylesheet for Plugin "widget-kategorieartikel" */
+/* Widget :: Container */
+div.widget_categorys {
+	width:				173px;
+	margin:				5px 0 5px 0;
+	padding:			5px;
+	border:				1px solid #DDDDDD;
+}
+
+/* Do not Modify this definition! */
+div.widget_categorys div.clear {
+	clear:				both;
+}
+
+/* Widget :: Title */
+div.widget_categorys h3.widget-title {
+	/* Do Nothing */
+}
+
+/* Widget :: Titlecount */
+div.widget_categorys  h3.widget-title span {
+	float:				right;
+}
+
+/* Entry :: Container */
+div.widget_categorys div.entry {
+	/* Do Nothing */
+}
+
+div.widget_categorys div.entry:hover {
+	background:			#F1F1F1;
+}
+
+/* Entry :: Title */
+div.widget_categorys div.entry  h3 {
+	width:				130px;
+	clear:				none;
+	display:			inline-block;
+}
+
+div.widget_categorys div.entry  h3 a {
+	/* Do Nothing */
+}
+
+/* Entry :: Thumb */
+div.widget_categorys div.entry img {
+	border:				1px solid #444444;
+	display:			block;
+	margin:				3px;
+}
+
+/* Entry :: Thumb Positions */
+div.widget_categorys div.entry.thumb_left h3 {
+	float:				right;
+}
+
+div.widget_categorys div.entry img.left {
+	float:				left;
+}
+
+div.widget_categorys div.entry.thumb_right h3 {
+	float:				left;
+}
+
+div.widget_categorys div.entry img.right {
+	float:				right;
+}
